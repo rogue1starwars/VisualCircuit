@@ -22,7 +22,7 @@ For more information visit our site [VisualCircuit](https://jderobot.github.io/V
 ## Prerequisite
 
 ### Front-end
-For more specific instructions check the frontend [readme](./frontend/README.md) 
+For more specific instructions check the frontend [readme](/frontend/README.md) 
 1. Clone the repository https://github.com/JdeRobot/VisualCircuit.git
 3. Change directory to `frontend`
 4. Run `npm install`
