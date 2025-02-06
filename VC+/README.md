@@ -29,7 +29,7 @@ For more specific instructions check the frontend [readme](/frontend/README.md)
 
 
 ### Back-end
-For more specific instructions check the backend [readme](./backend/README.md)
+For more specific instructions check the backend [readme](/backend/README.md)
 
 1. Clone the repository https://github.com/JdeRobot/VisualCircuit.git
 2. Change directory to `backend`
@@ -37,7 +37,7 @@ For more specific instructions check the backend [readme](./backend/README.md)
 For eg. `python -m venv .venv` 
 4. After activating the virtual environment, install the dependencies by running
 `pip install -r requirements.txt`
-5. Add `.env` file to the `backend` folder. And add the variables as defined in [.env.template](./.env.template)
+5. Add `.env` file to the `backend` folder. And add the variables as defined in [.env.template](/backend/.env.template)
 6. Create the static files to serve during execution by `python manage.py collectstatic`
 
 
